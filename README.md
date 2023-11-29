@@ -39,7 +39,9 @@ Once we had this table, the only remaining step was to analyze it using a Busine
 In this case, we chose Looker Studio for its compatibility with Google Sheets, coupled with the fact that the data to be analyzed is not extensive and does not require additional data processing. While the base license of Looker Studio is sufficient for this use case, Power BI could also be used.
 
 ![Investment_Overview (1)_page-0001](https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/78d4b5fe-5b5e-4c57-8e7a-0b8e04035229)
+
 ![Investment_Overview (1)_page-0002](https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/7d916aef-4e3e-4cd8-b5b4-fa3bd1a902aa)
 
 <img width="579" alt="image" src="https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/2c2d8034-eaf6-4821-9979-250bd71a2e16">
 
+<img width="579" alt="image" src="https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/0e0d5a61-eac6-4179-b347-e069f1312019">
