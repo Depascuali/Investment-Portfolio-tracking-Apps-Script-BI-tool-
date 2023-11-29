@@ -33,3 +33,10 @@ function recordPortfolioValue() {
   }
 }
 ```
+Once we had this table, the only remaining step was to analyze it using a Business Intelligence (BI) tool.
+
+# Results
+In this case, we chose Looker Studio for its compatibility with Google Sheets, coupled with the fact that the data to be analyzed is not extensive and does not require additional data processing. While the base license of Looker Studio is sufficient for this use case, Power BI could also be used.
+
+![Investment_Overview (1)_page-0001](https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/78d4b5fe-5b5e-4c57-8e7a-0b8e04035229)
+![Investment_Overview (1)_page-0002](https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/7d916aef-4e3e-4cd8-b5b4-fa3bd1a902aa)
