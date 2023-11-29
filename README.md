@@ -42,6 +42,12 @@ In this case, we chose Looker Studio for its compatibility with Google Sheets, c
 
 ![Investment_Overview (1)_page-0002](https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/7d916aef-4e3e-4cd8-b5b4-fa3bd1a902aa)
 
+Now, not only do we have a dashboard to view real-time performance, evolution, and other metrics, but we can also use filters to explore further into the analysis:
+
 <img width="579" alt="image" src="https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/2c2d8034-eaf6-4821-9979-250bd71a2e16">
 
 <img width="579" alt="image" src="https://github.com/Depascuali/Investment-Portfolio-tracking/assets/97790973/0e0d5a61-eac6-4179-b347-e069f1312019">
+
+
+
+Tomas Depascuali
