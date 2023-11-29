@@ -32,4 +32,4 @@ function recordPortfolioValue() {
     historySheet.appendRow([date, portfolioNames[i][0], portfolioValues[i][0]]);
   }
 }
-  ```
+```
