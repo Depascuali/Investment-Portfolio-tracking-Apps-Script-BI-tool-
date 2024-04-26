@@ -11,7 +11,7 @@ It was straightforward to work with stocks and Crypto. It's worth mentioning tha
 To obtain prices in Argentine pesos, the Blue Dollar (freely traded) would be considered. For this purpose, using the following script: https://pastebin.com/ER3PWuTi, you could utilize the formula =IMPORTJSON("https://api.bluelytics.com.ar/v2/latest", "/blue/value_sell", "noHeaders") to fetch the real-time Blue Dollar exchange rate.
 
 # Okay, but what about Portfolio Evolution...
-Once we had the value of our portfolio in both dollars and pesos in real-time, the following question arose: How do we measure the evolution of the portfolio over time? After some trial and error, I arrived at a small solution. Since we had the real-time quotes for all assets, we could take a "snapshot" of those assets and save them daily ihttps://github.com/Depascuali/Investment-Portfolio-tracking/issuesn a sheet. This way, a new table would be generated on that sheet with the historical data of all quotes. This was done with the following code in Apps Script:
+Once we had the value of our portfolio in both dollars and pesos in real-time, the following question arose: How do we measure the evolution of the portfolio over time? After some trial and error, I arrived at a small solution. Since we had the real-time quotes for all assets, we could take a "snapshot" of those assets and save them daily in a sheet. This way, a new table would be generated on that sheet with the historical data of all quotes. This was done with the following code in Apps Script:
 
  ```javascript
 function recordPortfolioValue() {
